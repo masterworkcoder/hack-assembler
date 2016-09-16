@@ -7,3 +7,6 @@ comments in the code.
 
 ### Usage
 hasm \<assembler.asm\>
+
+#### w_build
+Is simply a backup of the working code before adding the symbol table.
