@@ -6,4 +6,4 @@ type of compiler or assembler. It seems to be 100% functional I didn't make real
 comments in the code.
 
 ### Usage
-hasm <assembler.asm>
+hasm \<assembler.asm\>
